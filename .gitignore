@@ -34,6 +34,4 @@ build/
 # Heroku build artifacts
 heroku-postbuild.log
 
-# lock files 
-package-lock.json
 
